@@ -1,2 +1,2 @@
 # Cold-or-Allergy
-This next app will have you create a survey that can predict the likelihood that someone has a cold or an allergy! (Disclaimer: this survey is not an official diagnostic test and should not be used to actually diagnose anyone!)
+This is the exemplar app (answer key) for the Cold-or-Allergy repository. Only teachers should have access to this exemplar app.
